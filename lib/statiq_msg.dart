@@ -66,7 +66,7 @@ class _StatiqMsgState extends State<StatiqMsg> {
                     color: Colors.blue,
                     borderRadius: BorderRadius.circular(30)
                   ),
-                  child: const Center(child: Text("CONNEXION", 
+                  child: const Center(child: Text("ENVOYER", 
                   style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold

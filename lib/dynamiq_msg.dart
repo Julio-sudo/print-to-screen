@@ -65,7 +65,7 @@ class _DynamiqMsgState extends State<DynamiqMsg> {
                     color: Colors.blue,
                     borderRadius: BorderRadius.circular(30)
                   ),
-                  child: const Center(child: Text("CONNEXION", 
+                  child: const Center(child: Text("ENVOYER", 
                   style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold
